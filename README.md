@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @arushi2610
-- 👀 I’m interested in coding and web development.
-- 🌱 I’m currently learning C++.
+- 👀 I’m interested in coding and Technical Content writing.
+- 🌱 I’m currently learning C++ and Web Development.
 - 📫 How to reach me LinkedIn-linkedin.com/in/arushi-malhotra-22912a21a
+- 🧾 Content Specialist Intern at Regami Solutions.
 - Founder and Content Writing Head of Student Chapter CodingBlocks LPU.
 
 <!--- 
