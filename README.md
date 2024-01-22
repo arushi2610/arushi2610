@@ -2,5 +2,4 @@
 
 <h2>Let's connect!</h2>
 
-<a href="https://www.linkedin.com/in/malhotra-arushi/"><img height="50" src="![image](https://github.com/arushi2610/arushi2610/assets/91735359/7cee03ea-b25c-4f58-883d-3458bc53d52a)
-"></a>
+<a href="https://www.linkedin.com/in/malhotra-arushi/"><img height="50" src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
