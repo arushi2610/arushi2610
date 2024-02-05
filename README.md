@@ -9,6 +9,26 @@
 <a href="mailto:arushimalhotra2610@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
+<h2>A Little Bit About Me & My Interests</h2>
+
+```yaml
+name: Arushi Malhotra
+current_job: Technical Writer
+education:
+[
+"Bachelors of Computer Applications (Hons.)"
+]
+
+fields_of_interests:
+[
+"Web Development",
+"Technical Writing",
+"Community"
+]
+
+currently_learning: ["Bootstrap, JavaScript"]
+```
+
 <!--
 Canva, hackerrank, leetcode, coursera, freecodecamp, geeksforgeeks, godot, vscode, c++, c, js, html, css,
 -->
