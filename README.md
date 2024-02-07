@@ -29,6 +29,11 @@ fields_of_interests:
 currently_learning: ["Bootstrap, JavaScript"]
 ```
 
+<h2> &nbsp; Some Tools I Have Used & Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" height="40" width="40"/>
+</p>
+          
 <!--
 Canva, hackerrank, leetcode, coursera, freecodecamp, geeksforgeeks, godot, vscode, c++, c, js, html, css,
 -->
