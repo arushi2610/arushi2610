@@ -14,6 +14,7 @@
 ```yaml
 name: Arushi Malhotra
 current_job: Technical Writer
+building: Code Social Community
 education:
 [
 "Bachelors of Computer Applications (Hons.)"
