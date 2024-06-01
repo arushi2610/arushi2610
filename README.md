@@ -13,7 +13,6 @@
 
 ```yaml
 name: Arushi Malhotra
-current_job: Technical Writer
 building: Code Social Community
 education:
 [
@@ -23,7 +22,7 @@ education:
 fields_of_interests:
 [
 "Development",
-"Technical Writing",
+"Content",
 "Community"
 ]
 
