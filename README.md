@@ -16,7 +16,8 @@ name: Arushi Malhotra
 building: Code Social Community
 education:
 [
-"Bachelors of Computer Applications (Hons.)"
+"Currently Pursuing: Masters in Computer Science",
+"Completed: Bachelors of Computer Applications (Hons.)"
 ]
 
 fields_of_interests:
@@ -26,7 +27,7 @@ fields_of_interests:
 "Community"
 ]
 
-currently_learning: ["React, Redux"]
+currently_learning: ["Java, DSA"]
 ```
 
 <h2> &nbsp; Some Tools I Have Used & Learned</h2>
