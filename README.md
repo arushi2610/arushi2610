@@ -6,7 +6,7 @@
 <a href="https://twitter.com/arushi_2610"><img height="40" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 <a href="https://discord.com/users/754050196907884664"><img height="40" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://arushi.hashnode.dev/"><img height="40" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-<a href="mailto:arushimalhotra2610@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:arushimalhotra041@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 <h2>A Little Bit About Me & My Interests</h2>
@@ -17,17 +17,18 @@ building: Code Social Community
 education:
 [
 "Currently Pursuing: Masters in Computer Science",
+          {from: University of San Francisco}
 "Completed: Bachelors of Computer Applications (Hons.)"
 ]
 
 fields_of_interests:
 [
-"Development",
+"Software Development",
 "Content",
 "Community"
 ]
 
-currently_learning: ["Java, DSA"]
+currently_learning: ["Java, Springboot, Data Structures"]
 ```
 
 <h2> &nbsp; Some Tools I Have Used & Learned</h2>
