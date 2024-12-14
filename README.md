@@ -48,7 +48,8 @@ currently_learning: ["Java, Springboot, Data Structures"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godot" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" height="40" width="40"/>
 </p>
-          
+
+ <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64cf43530d755ccbebe14ed3?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
 <!--
 Canva, hackerrank, leetcode, coursera, freecodecamp, geeksforgeeks, godot, vscode, c++, c, js, html, css,
 -->
