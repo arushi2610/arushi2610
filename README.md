@@ -1,19 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey%20there!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey%20there!&fontSize=90&textAlign=center)
 
-<h2>Let's connect!</h2>
+<h2 align="center">Let's Connect!</h2>
 
+<p align="center">
 <a href="https://www.linkedin.com/in/malhotra-arushi/"><img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/arushi_2610"><img height="40" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 <a href="https://discord.com/users/754050196907884664"><img height="40" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://arushi.hashnode.dev/"><img height="40" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="mailto:arushimalhotra041@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
+---
 
 <h2>A Little Bit About Me & My Interests</h2>
 
 ```yaml
 name: Arushi Malhotra
 building: Code Social Community
+lookingFor: (summerInternships(2025) == softwareDevelopment)
 education:
 [
 "Currently Pursuing: Masters in Computer Science",
@@ -30,6 +34,8 @@ fields_of_interests:
 
 currently_learning: ["Java, Springboot, Data Structures"]
 ```
+
+---
 
 <h2> &nbsp; Some Tools I Have Used & Learned</h2>
 <p align="left">
@@ -49,7 +55,7 @@ currently_learning: ["Java, Springboot, Data Structures"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" height="40" width="40"/>
 </p>
 
- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/64cf43530d755ccbebe14ed3?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
-<!--
-Canva, hackerrank, leetcode, coursera, freecodecamp, geeksforgeeks, godot, vscode, c++, c, js, html, css,
--->
+---
+
+<h2>Let's Collaborate!</h2>
+<p>If you have exciting ideas or projects, feel free to reach out. I'm always open to learning and contributing to meaningful initiatives!</p>
