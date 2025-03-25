@@ -17,11 +17,11 @@
 ```yaml
 name: Arushi Malhotra
 building: Code Social Community
-lookingFor: (summerInternships(2025) == softwareDevelopment)
+lookingFor: (summerInternships(2025))
 education:
 [
 "Currently Pursuing: Masters in Computer Science",
-          {from: University of San Francisco}
+          {from: DePaul University}
 "Completed: Bachelors of Computer Applications (Hons.)"
 ]
 
