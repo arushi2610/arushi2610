@@ -17,7 +17,7 @@
 ```yaml
 name: Arushi Malhotra
 building: Code Social Community
-lookingFor: (summerInternships(2025))
+lookingFor: (internships(2025))
 education:
 [
 "Currently Pursuing: Masters in Computer Science",
@@ -32,7 +32,8 @@ fields_of_interests:
 "Community"
 ]
 
-currently_learning: ["Java, Springboot, Data Structures"]
+currently_learning: ["Bubble AI, Web3"];
+current_project: "An accountability web app with Bubble AI";
 ```
 
 ---
